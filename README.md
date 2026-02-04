@@ -1,4 +1,7 @@
 # Single Stage Pipeline Register (Valid–Ready Handshake)
+   ## single_stage_pipeline circuit
+   <img width="1536" height="1024" alt="single_stage_pipeline" src="https://github.com/user-attachments/assets/71db36b7-6b4d-42f0-ae70-d5e24df54698" />
+
 ## 📌 Project Overview
 This project implements a single-stage pipeline register in SystemVerilog using a standard valid–ready handshake protocol.
 The design safely transfers data between two pipeline stages while handling backpressure, stalling, and data integrity.
