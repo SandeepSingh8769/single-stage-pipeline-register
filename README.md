@@ -124,7 +124,8 @@ No data corruption or duplication
 ![SimulationImplemented Design (Placed & Routed Circuit)](Implemented Design(Placed & Routed Circuit).png)
 <img width="1579" height="938" alt="FPGA Design" src="https://github.com/user-attachments/assets/bc09005b-f854-45f2-946e-2482e72e8bae" />
 
-<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/4a3341f6-0403-49b5-a610-db3ae8951816" />
+<img width="1574" height="931" alt="Synthesis" src="https://github.com/user-attachments/assets/537bef64-15f4-4b5b-9c0a-10a627bd21c1" />
+
 ## POWER SUPPLY
 ![Simulation POWER SUPPLY](powersupply.png)
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/5fa5ceed-563f-4c91-841d-94026c1b1577" />
