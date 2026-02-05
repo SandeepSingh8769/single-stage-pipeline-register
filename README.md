@@ -100,7 +100,7 @@ Simulated using **Xilinx Vivado Simulator**.
 Waveforms verify correct data transfer and backpressure handling.
 ## Simulation Output
 ![Simulation Waveform](waveform.png)
-<img width="2000" height="869" alt="image" src="https://github.com/user-attachments/assets/14bba70c-abce-48a8-b34a-cfab757317fd" />
+<img width="1588" height="939" alt="Output WaveForm" src="https://github.com/user-attachments/assets/7bd5c2e7-f0df-4fb7-9634-3ce295dc1024" />
 ## 🧪 Simulation & Results
 
 Simulation was performed using Vivado.
