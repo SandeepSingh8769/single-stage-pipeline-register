@@ -114,7 +114,8 @@ Proper stalling during backpressure
 No data corruption or duplication
 ## RTL ANALYSIS
 ![Simulation RTL ANALYSIS](rtlnalysis.png)
-<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/eb24ae0a-3b64-4553-9ede-fb649ebecfc7" />
+<img width="1591" height="940" alt="RTL Analysis" src="https://github.com/user-attachments/assets/d19cad4b-3d35-4388-8f19-aa2eff4b9eab" />
+
 ## Technology Schematic
 ![Simulation Technology Schematic](Technology Schematic.png)
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/0cd68661-83ab-4e08-b8fe-f620ed6723e1" />
