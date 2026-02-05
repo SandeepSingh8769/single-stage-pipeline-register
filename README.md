@@ -99,7 +99,7 @@ New input can be accepted
 Simulated using **Xilinx Vivado Simulator**.  
 Waveforms verify correct data transfer and backpressure handling.
 ## Simulation Output
-![Simulation Waveform](waveform.png)
+![Simulation Waveform](Output WaveForm.png)
 <img width="1588" height="939" alt="Output WaveForm" src="https://github.com/user-attachments/assets/d9c90d76-1a7f-4352-a6b8-82f446f91787" />
 
 ## 🧪 Simulation & Results
