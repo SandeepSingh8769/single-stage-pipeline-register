@@ -118,7 +118,8 @@ No data corruption or duplication
 
 ## Technology Schematic
 ![Simulation Technology Schematic](Technology Schematic.png)
-<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/0cd68661-83ab-4e08-b8fe-f620ed6723e1" />
+<img width="1591" height="940" alt="Synthesized Design" src="https://github.com/user-attachments/assets/69066083-c95e-454a-b1f6-fe6dafa45788" />
+
 ## Implemented Design (Placed & Routed Circuit)
 ![SimulationImplemented Design (Placed & Routed Circuit)](Implemented Design(Placed & Routed Circuit).png)
 <img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/2ac0c80f-5434-432a-95fe-853dc3df0806" />
