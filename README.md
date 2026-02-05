@@ -128,7 +128,8 @@ No data corruption or duplication
 
 ## POWER SUPPLY
 ![Simulation POWER SUPPLY](powersupply.png)
-<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/5fa5ceed-563f-4c91-841d-94026c1b1577" />
+<img width="1579" height="963" alt="Implementation power" src="https://github.com/user-attachments/assets/c04fc839-6eea-4434-9727-44b28ffd83ff" />
+
 
 
 ## ✅ Synthesizability
