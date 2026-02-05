@@ -127,7 +127,7 @@ No data corruption or duplication
 <img width="1574" height="931" alt="Synthesis" src="https://github.com/user-attachments/assets/537bef64-15f4-4b5b-9c0a-10a627bd21c1" />
 
 ## POWER SUPPLY
-![Simulation POWER SUPPLY](powersupply.png)
+![Simulation POWER SUPPLY](Implementation power.png)
 <img width="1579" height="963" alt="Implementation power" src="https://github.com/user-attachments/assets/c04fc839-6eea-4434-9727-44b28ffd83ff" />
 
 
